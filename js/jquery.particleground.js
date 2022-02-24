@@ -4,7 +4,6 @@
   "use strict";
   var pluginName = 'particleground';
 
-  // http://youmightnotneedjquery.com/#deep_extend
   function extend(out) {
     out = out || {};
     for (var i = 1; i < arguments.length; i++) {
